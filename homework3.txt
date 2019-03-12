@@ -1,0 +1,12 @@
+1.What lessons did you learn doing the project?
+answer=I have learned many things to do this project. I have learned react routing, create nav bar, work with api in react, learn about axios function,
+fatch data, and many more.
+
+2.What would you do differently?
+answer= I have used moment to formate date and time.
+
+3.How the skills you learned can be applied elsewhere?
+answer= I think now i can build some aplication using react.
+
+4. What was the hardest and easiest part of the project?
+answer: For me the project was hard beacuse as a new learner in react its so hard for me to built a project in  this sort time. But i did it step by step.
